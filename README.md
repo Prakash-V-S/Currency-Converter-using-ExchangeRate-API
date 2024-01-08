@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hellow This is Prakash V S 😎 and This is Day-20 Activity</p>
+<p align="left">Hellow This is Prakash V S 😎 and This is Day-20 Currency converter Activity</p>
 
 ###
 
