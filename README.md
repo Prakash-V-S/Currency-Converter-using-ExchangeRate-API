@@ -53,5 +53,5 @@
 <img
   style="border: 1px solid rgba(100, 100, 100, 1); border-radius: 4px; box-shadow: 0px 0px 39px 14px rgba(255, 255, 255, 1);"
   align="left"
-  src="[https://github.com/Prakash-V-S/Day-17-Restcountries-Weather-using-fetch-API/assets/141955456/0ec4b6bc-28bf-4a69-95f8-256b13af8700](https://github.com/Prakash-V-S/Currency-Converter-using-ExchangeRate-API/assets/141955456/56c6b6cd-759d-46e4-97e3-73137ae88ead)https://github.com/Prakash-V-S/Currency-Converter-using-ExchangeRate-API/assets/141955456/56c6b6cd-759d-46e4-97e3-73137ae88ead"
+  src="https://github.com/Prakash-V-S/Currency-Converter-using-ExchangeRate-API/assets/141955456/56c6b6cd-759d-46e4-97e3-73137ae88ead"
 />
