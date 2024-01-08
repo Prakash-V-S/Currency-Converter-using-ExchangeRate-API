@@ -6,17 +6,18 @@
 
 ###
 
+ <p align="1eft">Demo : https://currency-converter-using-exchangerate.netlify.app</p> 
+   
+###
+
+###
+
 <h2 align="left">About</h2>
 
 ###
 
 <p align="left">📚  Creating bugs since ...<br>📚  Here I Created a Currency Converter using ExchangeRate-API.<br>📚  And Imported to GitHub Using Git<br>📚  Deployed my web application in Netlify</p>
 
-###
-
- <p align="1eft">Demo : https://currency-converter-using-exchangerate.netlify.app</p> 
-   
-###
 
 
 <h2 align="left">I code with</h2>
